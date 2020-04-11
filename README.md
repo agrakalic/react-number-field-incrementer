@@ -4,6 +4,9 @@ Simple UI component for updating numerical values to the field using +/- buttons
 You can simply grab the component found in `/src/components/NumberIncrementer` and add it to your project. 
 Alternatively you can install this entire project by following instructions below.
 
+## Demo
+https://agrakalic.github.io/react-number-field-incrementer/
+
 ## Installation
 For demo purposes, this project was built using Parcel bundler. It is required to have it installed locally. If you don't have it please install it with
 ```bash
