@@ -1,0 +1,31 @@
+{
+  "name": "react-number-field-incrementer",
+  "version": "1.0.0",
+  "description": "Number Inout Field Incrementer Component for React",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel public/index.html",
+    "build": "parcel build public/index.html --public-url './' --out-dir build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrakalic/react-number-field-incrementer.git"
+  },
+  "keywords": [],
+  "author": "Alen Grakalić",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agrakalic/react-number-field-incrementer/issues"
+  },
+  "homepage": "https://agrakalic.github.io/react-number-field-incrementer",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-is": "^16.12.0",
+    "styled-components": "^5.0.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
