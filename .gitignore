@@ -1,0 +1,5 @@
+.cache/
+robots.txt
+node_modules/
+dist/
+build/
